@@ -1,0 +1,17 @@
+{
+  "name": "guard",
+  "version": "1.0.0",
+  "description": "lunex tarafından hazırlanan guard botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lunex",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "lundb": "^2.1.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
